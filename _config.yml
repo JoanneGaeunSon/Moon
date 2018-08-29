@@ -1,14 +1,14 @@
 # Site
 title:              Wandersome
-bio:                'A foodie's travel blog'
-description:        
+bio:                'Minimal, one column jekyll theme.'
+description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/main_background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://wanderso.me
+url:                https://wanderso.mme
 
 # Jekyll
 permalink:          /:title/
