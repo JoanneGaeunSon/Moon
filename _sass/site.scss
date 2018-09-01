@@ -219,4 +219,9 @@ header .entry-meta {
         background-blend-mode: multiply;
         background-position: center center;
     }
+    @media (max-width: 500px) {
+        .class  {
+            margin-top: 15px;
+        }
+    }
 }
