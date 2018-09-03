@@ -1,24 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Blog
+tags: [about]
+date: 2018-09-03
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## About Me
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center> <img src ="/assets/img/aboutme.jpg"  </center>
+
+Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
+
+I am a Cognitive Science major
+specializing in Human Computer Interaction, so this blog serves both as a side project and a way for me to record and share my travels.
+
+My hobbies include cooking, photography, eating, and travelling (of course), and you'll see a lot of those things on this blog :) 
+
+Feel free to reach out to me via <u>joannegaeunson@gmail.com<u> for any inqueries or suggestions!</u>
 
 ## Preview
 
