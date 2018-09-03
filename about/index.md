@@ -8,7 +8,7 @@ comments: false
     
 ## About Me
 
-<center> <img src ="/assets/img/aboutme.jpg"  </center>
+<center> (img src ="/assets/img/aboutme.jpg)  </center>
 
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
@@ -18,6 +18,7 @@ specializing in Human Computer Interaction, so this blog serves both as a side p
 My hobbies include cooking, photography, eating, and travelling (of course), and you'll see a lot of those things on this blog :) 
 
 Feel free to reach out to me via <u>joannegaeunson@gmail.com</u> for any inqueries or suggestions!
+
 ## Preview
 
 {% capture images %}
