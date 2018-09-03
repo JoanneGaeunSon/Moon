@@ -17,8 +17,7 @@ specializing in Human Computer Interaction, so this blog serves both as a side p
 
 My hobbies include cooking, photography, eating, and travelling (of course), and you'll see a lot of those things on this blog :) 
 
-Feel free to reach out to me via <u>joannegaeunson@gmail.com<u> for any inqueries or suggestions!</u>
-
+Feel free to reach out to me via <u>joannegaeunson@gmail.com</u> for any inqueries or suggestions!
 ## Preview
 
 {% capture images %}
