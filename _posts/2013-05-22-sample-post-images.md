@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+title: "A New Blog-inning"
+date: 2018-09-03
+excerpt: "Up up and away."
+tags: [travel, italy, study abroad]
 comments: true
 ---
 
-Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
-### Figures (for images or video)
+### 
 
-#### One Up
 
 <figure>
 	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
