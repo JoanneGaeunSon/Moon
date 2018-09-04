@@ -29,10 +29,10 @@ Also, not to be morbid, but in the slight possiblity that the airplane crashes, 
 Also, who doesn't like a good old fashioned Instagram post from an airplane window with a profound quote about travelling as the caption?
 
 {% capture images %}
-    /assets/img/airplane/airplane1.jpg
-    /assets/img/airplane/airplane2.jpg
-    /assets/img/airplane/airplane3.jpg
-    /assets/img/airplane/airplane4.jpg
+    ./assets/img/airplane/airplane1.jpg
+    ./assets/img/airplane/airplane2.jpg
+    ./assets/img/airplane/airplane3.jpg
+    ./assets/img/airplane/airplane4.jpg
 
 {% endcapture %}
 {% include gallery images=images caption="Various Airplane Views" cols=4 %}
