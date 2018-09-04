@@ -24,14 +24,7 @@ That being said, check out my first post about travelling: [Why I Always Choose 
 
 Don't forget to subscribe down below if you want email updates for new posts :) 
 
- <h3 class="title">
-                          <a class="btn zoombtn" href="{{ site.url }}/about">
-                          About
-                          </a>
-                          <a class="btn zoombtn" href="{{ site.url }}/posts">
-                          Posts
-                          </a> 
-                  </h3>
+
                 <h4 class="title">
                 <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
