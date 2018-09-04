@@ -8,7 +8,7 @@ comments: false
     
 ## About Me
 
-<center> (img src ="/assets/img/aboutme.jpg)  </center>
+<center> (/assets/img/aboutme.jpg)  </center>
 
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
