@@ -37,7 +37,6 @@ Don't forget to subscribe down below if you want email updates for new posts :)
                                     <br/>                   
                                     <br/>
                                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                                </div>
                                 <div id="mce-responses" class="clear">
                                 <div class="response" id="mce-error-response" style="display:none"></div>
                                 <div class="response" id="mce-success-response" style="display:none"></div>
