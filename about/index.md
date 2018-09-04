@@ -8,10 +8,12 @@ comments: false
     
 ## About Me
 
-
+<center>
 <figure>
-   <center> <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" width="150" height="150" border-radius= "50%" ></a> </center>
+   <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" width="150" height="150" border-radius= "50%" ></a> </center>
 </figure>
+</center>
+<br/>
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
 I am a Cognitive Science major specializing in Human Computer Interaction, so this blog serves both as a side project and a way for me to record and share my travels.
