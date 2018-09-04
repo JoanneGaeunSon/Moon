@@ -1,14 +1,22 @@
 ---
 layout: post
 title: "A New Blog-inning"
-date: 2018-09-03
-excerpt: "Up up and away."
+date: 2018-09-04
+excerpt: "The Why, the What, the How."
 tags: [travel, italy, study abroad]
 comments: true
 ---
 
 
-### 
+### The WHY
+
+If you follow me on social media, you may have noticed that I have been travelling quite a lot during my college years. In fact, by the time I return to school in January, I'll pretty much have spent an entire year away from school, due to my time in the UCDC program, as intern in the East Coast, and my study abroad program this Fall. 
+
+Funnily enough, many people have expressed confusion as to where I am at, some believing that I have dropped out of college entirely, and others wondering if I hated my time at UCSD, as I spent so much time away from it. Both are not true- I'm finishing up my degree next Spring, as planned, and I actually truly loved my experience at UCSD. I myself questioned why I chose to leave my school, my friends, and my family so far behind, but in my opinion, I think that to cultivate personal growth, it is importamt to put myself in unfamiliar and sometimes uncomfortable situations. It definitely is hard to uproot my life every three months, live in completely new environments, and constantly have to make new friends, but through these past few months, I have forged great relationships with amazing people, and broadened my view of of the world, as well as learning more about myself. 
+
+In the past, I recorded my adventures primarily using social media (Primarily Instagram Stories), but I received much encouragement from friends and family to go further and start a travel blog. I actually have loved writing from a young age, and I have a passion for photography, so starting a blog was right down my alley. 
+
+
 
 
 <figure>
@@ -50,46 +58,3 @@ Apply the `third` class like so to display three images side by side that share 
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 {% endhighlight %}
-
-And you'll get something that looks like this:
-
-<figure class="third">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-	<figcaption>Three images.</figcaption>
-</figure>
-
-### Alternative way
-
-Another way to achieve the same result is to include `gallery` Liquid template. In this case you
-don't have to write any HTML tags – just copy a small block of code, adjust the parameters (see below)
-and fill the block with any number of links to images. You can mix relative and external links.
-
-Here is the block you might want to use:
-
-{% highlight liquid %}
-{% raw %}
-{% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
-{% endraw %}
-{% endhighlight %}
-
-Parameters:
-
-- `caption`: Sets the caption under the gallery (see `figcaption` HTML tag above);
-- `cols`: Sets the number of columns of the gallery.
-Available values: [1..3].
-
-It will look something like this:
-
-{% capture images %}
-	http://vignette2.wikia.nocookie.net/naruto/images/9/97/Hinata.png
-	http://vignette4.wikia.nocookie.net/naruto/images/7/79/Hinata_Part_II.png
-	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}
