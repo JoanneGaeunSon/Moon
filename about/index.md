@@ -8,7 +8,7 @@ comments: false
     
 ## About Me
 
-<center> {% capture image %}(./assets/img/aboutme.jpg) {% endcapture %}  </center>
+<center> {% capture image %}( https://cloud.githubusercontent.com/assets/img/aboutme.jpg) {% endcapture %}  </center>
 
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
