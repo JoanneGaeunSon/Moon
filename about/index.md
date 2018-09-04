@@ -8,8 +8,13 @@ comments: false
     
 ## About Me
 
+<style type="text/css">
+    .aboutme{
+        width: 100px;
+    }
+</style>
 <figure>
-    <a href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" size = 15></a>
+    <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg"></a>
 </figure>
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
