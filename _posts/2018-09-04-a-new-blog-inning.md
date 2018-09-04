@@ -22,6 +22,6 @@ This blog is also a web dev side project for my portfolio, so it will be a const
 
 That being said, check out my first post about travelling: [Why I Always Choose the Window Seat](wanderso.me/why-i-always-choose-the-window-seat)
 
-Don't forget to subscribe by clicking the link down below if you want email updates for new posts :) 
+Don't forget to subscribe by clicking the link down below if you want email updates for new posts :)! 
 
-[Subscribe!](wanderso.me)
+![Subscribe](wanderso.me)
