@@ -4,7 +4,6 @@ title: "A New Blog-inning"
 date: 2018-09-04
 excerpt: "TL;DR I'm studying abroad and this is my travel blog"
 tags: [travel, italy, study abroad]
-comments: true
 ---
 
 
