@@ -2,7 +2,7 @@
 layout: page
 title: About the Blog
 tags: [about]
-date: 2018-09-03
+date: 2018-09-04
 comments: false
 ---
     
