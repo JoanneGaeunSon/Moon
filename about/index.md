@@ -18,7 +18,7 @@ Feel free to reach out to me via <u>joannegaeunson@gmail.com</u> for any inqueri
 
 ## About the Content
 
-I am currently studying abroad in Florence, and will move on to Sicily and Barcelona in the next 15 weeks! Throughout my time here I will be flying/training to other European countries. Expect many food pictures, reviews, how-to posts, reflections, and other random musings that I have throughout my time here. Requests for certain posts are definitely welcome! I am very new to the blog scene so please bear with me as I develop my blogging style :) 
+I am currently studying abroad in Florence, and will move on to Sicily and Barcelona in the next 15 weeks! Throughout my time here I will be flying/training to other European countries. Expect many food pictures, reviews, how-to'a, reflections, and other random musings that I have throughout my time here. Requests for certain posts are definitely welcome! I am very new to the blog scene so please bear with me as I develop my blogging style :) 
 
 ## About the Tech
 
