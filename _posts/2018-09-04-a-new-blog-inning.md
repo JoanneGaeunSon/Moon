@@ -42,6 +42,7 @@ Don't forget to subscribe down below if you want email updates for new posts :)
                                 <div class="response" id="mce-success-response" style="display:none"></div>
                               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1a2638efe5c7d4d3d2194ba4f_d4f9438563" tabindex="-1" value=""></div>
+                                    <br/>
                                 <input class="btn zoombtn" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
                            
                 <!--End mc_embed_signup-->
