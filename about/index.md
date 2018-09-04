@@ -10,7 +10,7 @@ comments: false
 
 {% highlight html %}
 <figure>
-    <a href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg"></a>
+    <a href="./assets/img/aboutme.jpg"><img src="./assets/img/aboutme.jpg"></a>
 </figure>
 {% endhighlight %}
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
