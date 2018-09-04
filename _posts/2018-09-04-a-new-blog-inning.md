@@ -24,8 +24,15 @@ That being said, check out my first post about travelling: [Why I Always Choose 
 
 Don't forget to subscribe down below if you want email updates for new posts :) 
 
-
- <h4 class="title">
+ <h3 class="title">
+                          <a class="btn zoombtn" href="{{ site.url }}/about">
+                          About
+                          </a>
+                          <a class="btn zoombtn" href="{{ site.url }}/posts">
+                          Posts
+                          </a> 
+                  </h3>
+                <h4 class="title">
                 <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
                         <form action="https://wanderso.us19.list-manage.com/subscribe/post?u=1a2638efe5c7d4d3d2194ba4f&amp;id=d4f9438563" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -37,15 +44,17 @@ Don't forget to subscribe down below if you want email updates for new posts :)
                                     <br/>                   
                                     <br/>
                                     <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                                </div>
                                 <div id="mce-responses" class="clear">
                                 <div class="response" id="mce-error-response" style="display:none"></div>
                                 <div class="response" id="mce-success-response" style="display:none"></div>
-                              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                             <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1a2638efe5c7d4d3d2194ba4f_d4f9438563" tabindex="-1" value=""></div>
-                                    <br/>
                                 <input class="btn zoombtn" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                           
+                            </div>
+                        </form>
+                    </div>
                 <!--End mc_embed_signup-->
-                
+                </div>
                 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-               
+                </h4>
