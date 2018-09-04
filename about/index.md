@@ -9,7 +9,7 @@ comments: false
 ## About Me
 
 <figure>
-    <a href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" size = 25></a>
+    <a href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" size = 15></a>
 </figure>
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
