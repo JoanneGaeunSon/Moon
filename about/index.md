@@ -8,7 +8,7 @@ comments: false
     
 ## About Me
 
-<center> ![This is me!](assets/img/aboutme.jpg)  </center>
+<center> {% capture images %}(assets/img/aboutme.jpg) {% endcapture %}  </center>
 
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
