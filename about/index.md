@@ -8,11 +8,7 @@ comments: false
     
 ## About Me
 
-<style type="text/css">
-    .aboutme{
-        width: 100px;
-    }
-</style>
+
 <figure>
     <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg"></a>
 </figure>
