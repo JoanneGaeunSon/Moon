@@ -20,10 +20,5 @@ In the past, I recorded my adventures primarily using social media, but I receiv
 
 This blog is also a web dev side project for my portfolio, so it will be a constant work in progress! I hope to further improve it and add more features as I go, so expect changes!
 
-That being said, check out my first post about travelling [Am I in Disneyland or Florence? ](wanderso.me/AmIinDisneylandorFlorence)
-<figure>
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
+That being said, check out my first post about travelling: [Am I in Disneyland?: First Impressions of Florence ](wanderso.me/)
 
