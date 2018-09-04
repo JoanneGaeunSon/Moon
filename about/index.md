@@ -10,7 +10,7 @@ comments: false
 
 <center>
 <figure>
-   <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" width="150" height="150" border-radius= "50%" ></a> </center>
+   <a href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" width="150" height="150" border-radius= "50%" ></a> </center>
 </figure>
 </center>
 <br/>
