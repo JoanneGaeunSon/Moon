@@ -10,7 +10,7 @@ comments: false
 
 
 <figure>
-    <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg"></a>
+    <a class="aboutme" href="/assets/img/aboutme.jpg"><img src="/assets/img/aboutme.jpg" style="width:25px;height:25px;border-radius:50%;"></a>
 </figure>
 Hi Everyone! I'm Joanne, a current senior in college who is a globetrotter-in-training! 
 
