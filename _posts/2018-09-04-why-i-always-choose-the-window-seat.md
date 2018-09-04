@@ -28,7 +28,7 @@ Also, not to be morbid, but in the slight possiblity that the airplane crashes, 
 
 Also, who doesn't like a good old fashioned Instagram post from an airplane window with a profound quote about travelling as the caption?
 
-  <figure> <img src= "./assets/img/Airplanes/air1.jpg" /> </figure>
+  <figure> <img src= "assets/img/Airplanes/air1.jpg" /> </figure>
 
 
 
