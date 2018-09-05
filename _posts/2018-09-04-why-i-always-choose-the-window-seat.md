@@ -28,6 +28,7 @@ Also, not to be morbid, but in the slight possiblity that the airplane crashes, 
 
 Also, who doesn't like a good old fashioned Instagram post from an airplane window with a profound quote about travelling as the caption?
 
+<br/>
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -75,6 +76,7 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 </div>
 
 </body>
+<br/>
 
 
 
