@@ -45,24 +45,21 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
        <!-- Carousel items -->
         <div class="carousel-inner">
             <div class="active item carousel-fade">
-                <h2>Slide 1</h2>
                 <div class="carousel-caption">
                   <h3>First slide label</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <img src="/assets/img/Airplanes/air3.jpg">
                 </div>
             </div>
             <div class="item carousel-fade">
-                <h2>Slide 2</h2>
                 <div class="carousel-caption">
                   <h3>Second slide label</h3>
-                  <p>Aliquam sit amet gravida nibh, facilisis gravida odio.</p>
+                    <img src="/assets/img/Airplanes/air1.jpg">
+
                 </div>
             </div>
             <div class="item carousel-fade">
-                <h2>Slide 3</h2>
                 <div class="carousel-caption">
                   <h3>Third slide label</h3>
-                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
         </div>
@@ -76,7 +73,6 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
     </div>
 </div>
 </body>
-</html>                                		
 
 <br/>
 
