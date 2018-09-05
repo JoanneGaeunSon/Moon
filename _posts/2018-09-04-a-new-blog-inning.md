@@ -24,4 +24,4 @@ That being said, check out my first post about travelling: [Why I Always Choose 
 
 Don't forget to [Subscribe](wanderso.me) by clicking the link down below if you want email updates for new posts :)! 
 
-<center> [Subscribe](wanderso.me) </center>
+                                                [Subscribe](wanderso.me) 
