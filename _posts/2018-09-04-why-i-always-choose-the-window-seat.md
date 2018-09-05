@@ -60,11 +60,25 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 </div>
 </body>
 
-<center><i> Some of my favorite pictures from the air </i></center>
+<center><i> Some of my favorite pictures I have taken while airborne </i></center>
 
 
 
 ## Reason #2: That awkward moment when you rest your head on a stranger's shoulder.
-Also not speaking from experience. Alright you got me. It was on a flight from Washington DC to San Francisco. My flight was at 6am, so I had to get up at 3am to get to the aiport on time. Needless to say, I was exhausted. It was a full flight, and due to forgetting to check in, I was put in one of the last availible seats- a middle seat near the very back. Armed with my eye mask , wireless headphones, and simp playlist on Spotify, I was determined to reclaim the sleep that had been so coldly robbed from me. 
+
+Also not speaking from experience. Alright... you got me. It was on a flight from Washington DC to San Francisco. My flight was at 6am, which meant I had to get up at 3am to get to the aiport on time. Needless to say, I was exhausted. It was a full flight, and due to it being a last minute purchase, I was put in one of the last availible seats- a middle seat near the very back. Armed with my eye mask, neck pillow, wireless headphones, and "Simp" playlist on Spotify, I was determined to reclaim the sleep that had been so coldly robbed from me. 
+
+Once we were up in the air, I was out like a light. Because it was a small domestic flight, the chairs reclined back maybe an inch, which I thought would be fine because I had my handy dandy neck pillow. I had never been more wrong. 
+
+I tend to move around a lot in my sleep, and when my body is strapped down into an airplane seat, that means that only part of me could freely move about: my head. And boy did it move- I basically spent thirty minutes of waking up every ten seconds due to my neck being uncomfortably strained and my head bent down in the forward position. A couple of times, it ended up on the shoulder of the passenger next to me, who THANK GOD was a kindly old lady who insisted it was okay when I profusely apologized. Needless to say, I got very little sleep and was mortified about the whole affair. I eventually gave up on sleep, and decided to read my book. I couldn't even entertain myself by looking out the window because well, I was in the middle seat.
+
+Whenever I'm in the aisle seat, I'm able to lean my head against the window, allowing the most comfort and security that an economy seat in a domestic flight can provide. Furthermore, when the window seat is taken, on less crowded flights, it is less likely that someone will take a middle seat, allowing a cushion between me and other passengers, sometimes even giving me an entire row.
+
+## Reason #3: E.Coli is not your friend.
+
+Everyone's biggest qualm about the window seat is the fact that you have bother the two people next to you and do an insanely awkward shuffle in order to get out of your seat and on your way to the bathroom.
+
+My question to those people is <i>why on earth would you want to go to the bathroom on an airplane in the first place</i>?
+
 
 
