@@ -6,7 +6,7 @@ excerpt: "TL;DR Would you cuddle with a stranger?"
 tags: [travel, flights, tips]
 comments: true
 ---
-
+<h1>
 As someone who has been on about twenty flights both domestic and international within the last year, I have consistently opted to sit in the window seat, if possible.
 
 Twice I have been unsuccessful, and my flight experience was radically different as a result. 
@@ -84,4 +84,6 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 ## Reason #2: That awkward moment when you rest your head on a stranger's shoulder.
 
 Also not speaking from experience. Alright you got me. It was on a flight from Washington DC to San Francisco. My flight was at 6am, so I had to get up at 3am to get to the aiport on time. Needless to say, I was exhausted. It was a full flight, and due to forgetting to check in, I was put in one of the last availible seats- a middle seat near the very back. Armed with my eye mask , wireless headphones, and simp playlist on Spotify, I was determined to reclaim the sleep that had been so coldly robbed from me. 
+
+</h1>
 
