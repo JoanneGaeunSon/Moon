@@ -6,9 +6,7 @@ excerpt: "TL;DR Would you cuddle with a stranger?"
 tags: [travel, flights, tips]
 comments: true
 ---
-As someone who has been on about twenty flights both domestic and international within the last year, I have consistently opted to sit in the window seat, if possible.
-
-Twice I have been unsuccessful, and my flight experience was radically different as a result. 
+As someone who has been on about twenty flights both domestic and international within the last year, I have consistently opted to sit in the window seat, if possible. The only two times that I didn't were due to them being last-minute purchases. The experiences I had during these two flights were drastically different.
 
 Here are a couple of the reasons why I think the window seat is the best choice for any given flight.
 
@@ -62,9 +60,7 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 </div>
 </body>
 
-<br/>
-
-<i> Some of my favorite pictures from the air </i>
+<center><i> Some of my favorite pictures from the air </i></center>
 
 
 
