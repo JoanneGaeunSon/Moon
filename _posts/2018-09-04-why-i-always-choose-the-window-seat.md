@@ -21,10 +21,7 @@ When you're flying over water, you can scrutinize the vastness of the ocean, wat
 
 When you're flying over land, you get to follow the crevices and peaks etched onto the surface beautiful Mother Earth. You get to see toy-sized cars on miniscule highways, wondering who is in them and where they are going. I love watching the world outside as if it is a tiny world that I'm far removed from. At night, you get to see the twinkling lights of cities below, and the concentrations of brightly lit buildings contrasting the vast blackness of the contryside.
 
-
-My favorite moments in air was on a flight from the South Africa to Qatar where the sun was setting and we were literally chasing the sunset. Because of the direction I was going in, and the timing of the flight, I got to see the gorgeous orange, pink, and red hues of the sky for a good 30 minutes. 
-
-Also, not to be morbid, but in the slight possiblity that the airplane crashes, which of the three types of views would you prefer as the last thing you see before you perish? 
+My favorite moment in air was on a flight from the South Africa to Qatar where the sun was setting and we were literally chasing the sunset. Because of the direction I was going in, and the timing of the flight, I got to see the gorgeous orange, pink, and red hues of the sky for a good 30 minutes. 
 
 Also, who doesn't like a good old fashioned Instagram post from an airplane window with a profound quote about travelling as the caption?
 
@@ -66,6 +63,8 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 </body>
 
 <br/>
+
+<i> Some of my favorite pictures from the air </i>
 
 
 
