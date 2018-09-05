@@ -22,7 +22,7 @@ I am currently studying abroad in Florence, and will move on to Sicily and Barce
 
 ## About the Tech
 
-After a lot of toying around with different platforms and consulting friends, I decided to utilize Jekyll on the Github Pages platform. (Shoutout to Joel Sequeira for the recommendation!) I found a template that I really liked online, and modified it to add style elements in addition to commenting and subscription capabilities. As this blog is also a web development side project, expect new features to be added and/or modified throughout its lifespan! 
+After a lot of toying around with different platforms and consulting friends, I decided to utilize Jekyll on the Github Pages platform. (Shoutout to Joel Sequeira for the recommendation, and Isaac Diamand for the DNS help!) I found a template that I really liked online, and modified it to add style elements in addition to commenting and subscription capabilities. As this blog is also a web development side project, expect new features to be added and/or modified throughout its lifespan! 
 
 
 
