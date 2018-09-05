@@ -51,7 +51,7 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
                 <img src="/assets/img/Airplanes/air1.jpg">
             </div>
             <div class="item carousel-fade">
-                <img src="/assets/img/Airplanes/Florence-airborne.jpg">
+                <img src="/assets/img/Airplanes/Florence_airborne.jpg">
             </div>
         </div>
         <!-- Carousel nav -->
