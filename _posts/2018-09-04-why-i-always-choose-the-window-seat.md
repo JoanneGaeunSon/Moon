@@ -42,19 +42,19 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/assets/img/Aiplanes/air2.jpg">
+      <img src="/assets/img/Airplanes/air2.jpg">
       <div class="carousel-caption">
         Caption Goes Here
       </div>
     </div>
     <div class="item">
-      <img src="/assets/img/Aiplanes/air1.jpg.jpg">
+      <img src="/assets/img/Airplanes/air1.jpg">
       <div class="carousel-caption">
         Caption Goes Here
       </div>
     </div>
     <div class="item">
-      <img src="/assets/img/Aiplanes/air4.jpg">
+      <img src="/assets/img/Airplanes/air4.jpg">
       <div class="carousel-caption">
         Caption Goes Here
       </div>
