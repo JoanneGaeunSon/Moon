@@ -20,6 +20,6 @@ In the past, I recorded my adventures primarily using social media, but I receiv
 
 This blog is also a web dev side project for my portfolio, so it will be a constant work in progress! I hope to further improve it and add more features as I go, so expect changes!
 
-That being said, check out my first post about travelling: [Why I Always Choose the Window Seat](wanderso.me/why-i-always-choose-the-window-seat)
+That being said, check out my first post about travelling: [Why I Always Choose the Window Seat](https://wanderso.me/why-i-always-choose-the-window-seat/)
 
-Don't forget to [Subscribe](wanderso.me) by clicking the link if you want email updates for new posts :)! 
+Don't forget to click [Subscribe](https://wanderso.me) if you want email updates for new posts :)! 
