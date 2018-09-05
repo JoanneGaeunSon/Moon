@@ -80,7 +80,9 @@ Everyone's biggest qualm about the window seat is the fact that you have bother 
 
 My question to those people is <i>why on earth would you want to go to the bathroom on an airplane in the first place</i>?
 
-According to a study in the Times magazine, E.Coli was found on the toilet set, bathroom handle, and even the sink of many airplain bathrooms [source](http://time.com/4877041/dirtiest-places-on-airplanes/). If you think about it, an airplane is an enclosed, controlled environment. It has to be or else the air pressure would be impossible for humans to survive in. Imagine all the germs that fester in the tiny water closets that anywhere from 50 to 100 people have used in the span of the last few hours. Albeit, airplane cabins, by nature of being air sealed, are pretty much germ infested anyways, but adding to the already overbearing amount of exposure to germs is just not on my agenda. I tend to see to my business right before my plane and refrain from taking in too many liquids during my journey in order to avoid the bathroom at all costs.
+According to a study in the Times magazine, E.Coli was found on the toilet set, bathroom handle, and even the sink of many airplain bathrooms ([source])(http://time.com/4877041/dirtiest-places-on-airplanes/). If you think about it, an airplane is an enclosed, controlled environment. It has to be or else the air pressure would be impossible for humans to survive in. Imagine all the germs that fester in the tiny water closets that anywhere from 50 to 100 people have used in the span of the last few hours. Albeit, airplane cabins, by nature of being air sealed, are pretty much germ infested anyways, but adding to the already overbearing amount of exposure to germs is just not on my agenda. I tend to see to my business right before my plane and refrain from taking in too many liquids during my journey in order to avoid the bathroom at all costs.
+
+
 
 
 
