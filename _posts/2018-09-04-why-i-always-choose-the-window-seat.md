@@ -39,7 +39,6 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 <body>
 
 <div class="container">
-  <h2>Carousel Example</h2>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -77,7 +76,6 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
 
 </body>
 
-![](/assets/img/Airplanes/air2.jpg) 
 
 
 
