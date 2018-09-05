@@ -45,17 +45,10 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
        <!-- Carousel items -->
         <div class="carousel-inner">
             <div class="active item carousel-fade">
-                <div class="carousel-caption">
-                  <h3>First slide label</h3>
-                    <img src="/assets/img/Airplanes/air3.jpg">
-                </div>
+                <img src="/assets/img/Airplanes/air3.jpg">
             </div>
             <div class="item carousel-fade">
-                <div class="carousel-caption">
-                  <h3>Second slide label</h3>
-                    <img src="/assets/img/Airplanes/air1.jpg">
-
-                </div>
+                <img src="/assets/img/Airplanes/air1.jpg">
             </div>
             <div class="item carousel-fade">
                 <div class="carousel-caption">
