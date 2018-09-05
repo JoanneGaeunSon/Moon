@@ -62,11 +62,11 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
   </div>
 
   <!-- Controls -->
-  <a class="carousel-control.left" role="button" data-slide="prev">
+  <a class="carousel-control.left" href="/_sass/elements.scss" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"><</span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control.right" role="button" data-slide="next">
+  <a class="carousel-control.right" href="/_sass/elements.scss" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true">></span>
     <span class="sr-only">Next</span>
   </a>
