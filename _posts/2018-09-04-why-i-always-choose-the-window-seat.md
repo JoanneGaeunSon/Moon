@@ -45,13 +45,13 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="assets/Airplanes/air2.jpg" alt="First slide">
+      <img class="d-block w-100" src="assets/img/Airplanes/air2.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/Airplanes/air1.jpg" alt="Second slide">
+      <img class="d-block w-100" src="assets/img/Airplanes/air1.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="assets/Airplanes/air4.jpg." alt="Third slide">
+      <img class="d-block w-100" src="assets/img/Airplanes/air4.jpg." alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
