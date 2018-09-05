@@ -54,7 +54,7 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
       </div>
 
       <div class="item">
-        <img src="/assets/img/Airplanes/airq.jpg" style="width:100%;">
+        <img src="/assets/img/Airplanes/air1.jpg" style="width:100%;">
       </div>
     
       <div class="item">
