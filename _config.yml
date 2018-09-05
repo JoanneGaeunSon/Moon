@@ -10,6 +10,9 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://wanderso.me
 
+# Google Analytics
+google_analytics: UA-125239397-1
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
