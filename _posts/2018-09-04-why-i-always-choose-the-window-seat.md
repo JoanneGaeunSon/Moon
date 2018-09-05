@@ -57,13 +57,13 @@ Also, who doesn't like a good old fashioned Instagram post from an airplane wind
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/Airplanes/air2.jpg" width="1100" height="500">
+      <img src="/assets/img/Airplanes/air2.jpg" width="1100px" height="500px">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/Airplanes/air1.jpg" width="1100" height="500">
+      <img src="/assets/img/Airplanes/air1.jpg" width="1100px" height="500px">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/Airplanes/air4.jpg" width="1100" height="500">
+      <img src="/assets/img/Airplanes/air4.jpg" width="1100px" height="500px">
     </div>
   </div>
   
