@@ -96,4 +96,4 @@ simply plated.
 
 But once I tasted it, I was immediately transported back to my childhood dining room table, when my mom would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
 
-Although the ingredients were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. It's crazy how vivid
+Although the ingredients were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. 
