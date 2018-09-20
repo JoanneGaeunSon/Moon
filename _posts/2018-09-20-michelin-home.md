@@ -32,7 +32,7 @@ were the youngest people in the room... by far.
 
 Waiters dressed in crisp white shirts and sleek black slacks walked around with gleaming silver trays filled with hors d'oeuvres.
 
-## insert picture of beef tartare and champagne
+<img src="/assets/img/Michelin/appetizer.jpeg">
 
 We targetted the youngest couple there to socialize with because a. they were speaking English, and b. they were the only other Asians in the room.
 They were from Canada and were taking a detour on their way home from a wedding in Paris.
@@ -90,6 +90,9 @@ It was the third course which lead to probably the best culinary experience I'd 
 
 The dish itself was simple- a risotto (rice dish) with porcini mushrooms and saffron. Out of all the other dishes that we had,  it was the most
 simply plated.
+
+<img src="/assets/img/Michelin/risotto.jpeg">
+
 
 But once I tasted it, I was immediately transported back to my childhood dining room table, when my mom would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
 
