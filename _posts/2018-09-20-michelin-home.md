@@ -13,7 +13,7 @@ He cocks his pen, as if readying his weapon, and with his other hand, brings the
 And then suddenly, Anton is not in the restaurant, but his childhood self, remembering the warmth and love that his mother's homemade rattaouille provided for him on
 a bad day.
 
-<center> <iframe src="https://giphy.com/embed/ex5i3xPhozedq" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p> </center>
+ <iframe src="https://giphy.com/embed/ex5i3xPhozedq" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p> 
 
 I always envied that moment, and wondered if it would ever come to me.
 
@@ -58,8 +58,8 @@ Each course was exquisitely plated, reminiscent of those works of modern art tha
             <li data-target="#myCarousel" data-slide-to="2"></li>
         </ol>   
        <!-- Carousel items -->
-        <div class="carousel-inner">
-            <div class="active item carousel-fade">
+       <div class="carousel-inner">
+           <div class="active item carousel-fade">
                 <img src="/assets/img/Michelin/app.jpeg">
             </div>
             <div class="item carousel-fade">
