@@ -13,7 +13,7 @@ He cocks his pen, as if readying his weapon, and with his other hand, brings the
 And then suddenly, Anton is not in the restaurant, but his childhood self, remembering the warmth and love that his mother's homemade rattaouille provided for him on
 a bad day.
 
- <center><iframe src="https://giphy.com/embed/ex5i3xPhozedq" width:100% height:100% frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p> </center>
+ <center><iframe src="https://giphy.com/embed/ex5i3xPhozedq" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p> </center>
 
 I always envied that moment, and wondered if it would ever come to me.
 
