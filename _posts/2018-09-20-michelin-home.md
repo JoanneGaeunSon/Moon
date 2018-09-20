@@ -3,7 +3,7 @@ layout: post
 title: "How I found home in a Michelin starred restaurant"
 date: 2018-09-20
 excerpt: "TLDR; I had THE Rattatouille moment"
-tags: [travel, flights, tips]
+tags: [travel, experience, food]
 comments: true
 ---
 
@@ -61,16 +61,16 @@ Each course was exquisitely plated, reminiscent of those works of modern art tha
        <!-- Carousel items -->
         <div class="carousel-inner">
             <div class="active item carousel-fade">
-                <img src="/assets/img/Michelin/champagne.jpg">
+                <img src="/assets/img/Michelin/champagne.jpeg">
             </div>
             <div class="item carousel-fade">
-                <img src="/assets/img/Michelin/app.jpg">
+                <img src="/assets/img/Michelin/app.jpeg">
             </div>
             <div class="item carousel-fade">
-                <img src="/assets/img/Michelin/main.jpg">
+                <img src="/assets/img/Michelin/main.jpeg">
             </div>
             <div class="item carousel-fade">
-                <img src="/assets/img/Michelin/Salad.jpg">
+                <img src="/assets/img/Michelin/Salad.jpeg">
             </div>
         </div>
         <!-- Carousel nav -->
@@ -96,4 +96,5 @@ The dish itself was simple- a risotto (rice dish) with porcini mushrooms and saf
 simply plated.
 
 But once I tasted it, I was immediately transported back to my childhood dining room table, when my mom would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
-Although the ingredients were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it.
+
+Although the ingredients were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. It's crazy how vivid
