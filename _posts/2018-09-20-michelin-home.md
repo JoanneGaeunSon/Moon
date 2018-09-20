@@ -97,6 +97,6 @@ simply plated.
 
 But once I tasted it, I was immediately transported back to my childhood dining room table, when my mother would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
 
-Although the ingredients on my plate were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. It was mind boggling how I was able to relate the two wildly different experiences. I suddenly had a deep understanding about how Anton felt, my eyes tearing up a little just thinking about home and my mother's cooking.
+Even though the ingredients on my plate were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. It was mind boggling how I was able to relate the two wildly different experiences. I suddenly had a deep understanding about how Anton felt, my eyes tearing up a little just thinking about home and my mother's cooking.
 
 Although these experiences are in no way exclusive to Michelin starred restaurants, I think the unexpectedness of it evoked a stronger emotional response within me. Amongst the sparkling glasses of champagne, foie gras, and crisp white tablecloths, I was able to find a piece of familiarity on a plate in a country so far away from home.
