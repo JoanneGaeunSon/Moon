@@ -27,12 +27,13 @@ had chosen the restaurant by picking a random restaurant on the Michelin Guide. 
 Puzzled, we called the restaurant, and discovered that a special event was to take place that night, in which a guest Michelin starred chef from Milan and the resident chef had created a
 special menu for the night. Because we already had a reservation for the night, they honored that reservation and gave us a table at the event.
 
+<img src="/assets/img/Michelin/logo.JPG">
+
+
 Once we got into the venue, we were promptly handed two glasses of champagne, and whisked away to the social hour, where we quickly realized that we
 were the youngest people in the room... by far.
 
 Waiters dressed in crisp white shirts and sleek black slacks walked around with gleaming silver trays filled with hors d'oeuvres.
-
-<img src="/assets/img/Michelin/appetizer.jpeg">
 
 We targetted the youngest couple there to socialize with because a. they were speaking English, and b. they were the only other Asians in the room.
 They were from Canada and were taking a detour on their way home from a wedding in Paris.
@@ -94,6 +95,8 @@ simply plated.
 <img src="/assets/img/Michelin/risotto.jpeg">
 
 
-But once I tasted it, I was immediately transported back to my childhood dining room table, when my mom would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
+But once I tasted it, I was immediately transported back to my childhood dining room table, when my mother would put a steaming bowl of cream of mushroom soup mixed with rice and veggies in front of me.
 
-Although the ingredients were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. 
+Although the ingredients on my plate were so far removed from the 99 cent can of Campbell's cream of mushroom that my mother's dish came from, it reminded me of home, and how much I missed it. It was mind boggling how I was able to relate the two wildly different experiences. I suddenly had a deep understanding about how Anton felt, my eyes tearing up a little just thinking about home and my mother's cooking.
+
+Although these experiences are in no way exclusive to Michelin starred restaurants, I think the unexpectedness of it evoked a stronger emotional response within me. Amongst the sparkling glasses of champagne, foie gras, and crisp white tablecloths, I was able to find a piece of familiarity on a plate in a country so far away from home.
