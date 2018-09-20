@@ -13,7 +13,7 @@ He cocks his pen, as if readying his weapon, and with his other hand, brings the
 And then suddenly, Anton is not in the restaurant, but his childhood self, remembering the warmth and love that his mother's homemade rattaouille provided for him on
 a bad day.
 
-<iframe src="https://giphy.com/embed/ex5i3xPhozedq" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p>
+<center> <iframe src="https://giphy.com/embed/ex5i3xPhozedq" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ex5i3xPhozedq">via GIPHY</a></p> </center>
 
 I always envied that moment, and wondered if it would ever come to me.
 
@@ -84,7 +84,6 @@ Each course was exquisitely plated, reminiscent of those works of modern art tha
 </div>
 </body>
 
-<center><i> Some of my favorite pictures I have taken while airborne </i></center>
 
 Each ingredient within each dish was so perfectly paired with the others, not to mention the glasses of wine that the sommelier poured and described
 to us at the beginning of each course.
