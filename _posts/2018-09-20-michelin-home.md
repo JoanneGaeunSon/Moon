@@ -1,7 +1,11 @@
-How I found home in a Michelin starred restaurant
-
-TLDR; I had THE Rattatouille moment
-
+---
+layout: post
+title: "How I found home in a Michelin starred restaurant"
+date: 2018-09-20
+excerpt: "TLDR; I had THE Rattatouille moment"
+tags: [travel, flights, tips]
+comments: true
+---
 
 Everyone knows the scene- Anton the food critic, indifferently eyes the Rattatouille dish that Alfredo has brought to him, a look of disdain on his face.
 He cocks his pen, as if readying his weapon, and with his other hand, brings the fork up dramatically to take a bite.
