@@ -56,14 +56,10 @@ Each course was exquisitely plated, reminiscent of those works of modern art tha
             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>   
        <!-- Carousel items -->
         <div class="carousel-inner">
             <div class="active item carousel-fade">
-                <img src="/assets/img/Michelin/champagne.jpeg">
-            </div>
-            <div class="item carousel-fade">
                 <img src="/assets/img/Michelin/app.jpeg">
             </div>
             <div class="item carousel-fade">
