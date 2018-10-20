@@ -51,3 +51,8 @@ The next day, we did some sight-seeing, soaking in the beauty of the coast, form
 
 
 Although our weekend in the sleepy little Sicilian town was vastly different than the one that we envisioned in Northern Europe, it was a memorable experience filled with interesting people and perspectives that I shall treasure forever. 
+
+
+Don't forget to click [Subscribe](https://wanderso.me) if you want email updates for new posts :)! 
+
+
