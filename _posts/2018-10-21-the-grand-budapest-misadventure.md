@@ -21,6 +21,10 @@ The next morning, I was pleasantly awakened to a gorgeous view of the Sicilian c
 
 We lounged around until lunch, where we were seated with a Hungarian couple with the most darling children, and an Australian backpacker we had met at the airport named Mike. It turned out that the Hungarian man was a filmmaker - we promised to watch his films later in the future. There was a sort of quaint comradery amongst us who were stranded - at meals we would often converse with one another, and share our stories. These meals made me think of something one of my professors in Florence spoke of on the first day of class during a bread tasting- “Communion is the breaking of bread together, now that we have broken bread, we are friends.” Despite the exhausting and frustrating circumstances that brought us all together, we were able to break bread, and share our experiences with each other. Arguably, I got to know more Hungarians than I would have if I was a tourist in Hungary. 
 
+<img src="/assets/img/Misadventure/food1.JPG">
+<i> Not too bad for a free meal </i>
+
+
 We spent the rest of the day at the Turkish baths in the hotel, the stress of our travelling woes melting away.
 At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”, 
 
@@ -35,6 +39,10 @@ The next day, we did some sight-seeing, soaking in the beauty of the coast, form
 
 <img src="/assets/img/Misadventure/locks.jpg">
 <i>Love locks near the cliffs</i>
+
+<img src="/assets/img/Misadventure/Feet.jpg">
+<i>Teach Mike how to take photos like an American middle schooler </i>
+
 
 
 Although our weekend in the sleepy little Sicilian town was vastly different than the one that we envisioned in Northern Europe, it was a memorable experience filled with interesting people and perspectives that I shall treasure forever. 
