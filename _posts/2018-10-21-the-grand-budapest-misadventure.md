@@ -21,7 +21,7 @@ The next morning, I was pleasantly awakened to a gorgeous view of the Sicilian c
 <img src="/assets/img/Misadventure/landscape.jpg">
 <i>Nothing to complain about the view</i>
 
-Breakfast was provided, and we were finally illuminated by the hotel staff about the fate of our weekend- we were to stay at the hotel for two days, with meals and board provided by the airline. We wanted to go home, but the airline staff refused to provide us with transportation back to the airport where we could take a bus, so we were stranded. 
+Breakfast was provided, and the fate of our weekend was finally illuminated by the hotel staff- we were to stay at the hotel for two days, with meals and board provided by the airline. We wanted to go home, but the airline staff refused to provide us with transportation back to the airport where we could take a bus, so we were stranded. 
 
 
 We lounged around until lunch, where we were seated with a Hungarian couple with the most darling children, and an Australian backpacker we had met at the airport named Mike. It turned out that the Hungarian man was a filmmaker - we promised to watch his films later in the future. There was a sort of quaint comradery amongst us who were stranded - at meals we would often converse with one another, and share our stories. These meals made me think of something one of my professors in Florence spoke of on the first day of class during a bread tasting- “Communion is the breaking of bread together, now that we have broken bread, we are friends.” Despite the exhausting and frustrating circumstances that brought us all together, we were able to break bread, and share our experiences with each other. Arguably, I got to know more Hungarians than I would have if I was a tourist in Hungary. 
