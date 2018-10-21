@@ -53,10 +53,8 @@ The next day, we did some sight-seeing, soaking in the beauty of the coast, form
 
 <img src="/assets/img/Misadventure/Feet.jpg">
 <i>Teaching Mike how to take photos like an American middle schooler </i>
-
 <br>
 <br>
-
 Although our weekend in the sleepy little Sicilian town was vastly different than the one that we envisioned in Central Europe, it was a memorable experience filled with interesting people and perspectives that I shall treasure forever. 
 
 
