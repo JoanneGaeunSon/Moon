@@ -29,10 +29,8 @@ We lounged around until lunch, where we were seated with a Hungarian couple with
 
 <img src="/assets/img/Misadventure/food1.JPG">
 <i> Not too bad for a free meal </i>
-
 <br>
 <br>
-
 We spent the rest of the day at the Turkish baths in the hotel, the stress of our travelling woes melting away.
 At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”.
 
