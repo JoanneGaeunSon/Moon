@@ -57,8 +57,6 @@ The next day, we did some sight-seeing, soaking in the beauty of the coast, form
 <br>
 <br>
 
-
-
 Although our weekend in the sleepy little Sicilian town was vastly different than the one that we envisioned in Central Europe, it was a memorable experience filled with interesting people and perspectives that I shall treasure forever. 
 
 
