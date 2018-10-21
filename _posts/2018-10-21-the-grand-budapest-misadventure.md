@@ -20,7 +20,8 @@ The next morning, I was pleasantly awakened to a gorgeous view of the Sicilian c
 
 <img src="/assets/img/Misadventure/landscape.jpg">
 <i>Nothing to complain about the view</i>
-
+<br>
+<br>
 Breakfast was provided, and the fate of our weekend was finally illuminated by the hotel staff- we were to stay at the hotel for two days, with meals and board provided by the airline. We wanted to go home, but the airline staff refused to provide us with transportation back to the airport where we could take a bus, so we were stranded. 
 
 
@@ -29,6 +30,8 @@ We lounged around until lunch, where we were seated with a Hungarian couple with
 <img src="/assets/img/Misadventure/food1.JPG">
 <i> Not too bad for a free meal </i>
 
+<br>
+<br>
 
 We spent the rest of the day at the Turkish baths in the hotel, the stress of our travelling woes melting away.
 At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”.
@@ -41,12 +44,18 @@ The next day, we did some sight-seeing, soaking in the beauty of the coast, form
 
 <img src="/assets/img/Misadventure/group.JPG">
 <i>Adventuring with an Aussie</i>
+<br>
+
 
 <img src="/assets/img/Misadventure/locks.jpg">
 <i>Love locks near the cliffs</i>
+<br>
 
 <img src="/assets/img/Misadventure/Feet.jpg">
 <i>Teaching Mike how to take photos like an American middle schooler </i>
+
+<br>
+<br>
 
 
 
