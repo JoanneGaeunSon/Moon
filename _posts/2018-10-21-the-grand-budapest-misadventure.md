@@ -9,6 +9,8 @@ comments: true
 
 It was going to be a wonderful weekend- I had meticulously planned our itinerary for a 3-city weekend in Budapest, Vienna, and Prague, and booked accomodations weeks before. On Thursday night we headed over to the airport on our island of Sicily, suitcases in tow, excitement in the air.
 
+## A cancelled flight
+
 Our excitement quickly soured when our plane was delayed for an hour, and then another. We sought to get answers from the airline, but none were given. It became midnight, and then 1AM. Our morale was quite low as we began to accept the fact that we were not getting to Budapest that night. Sure enough, the airline announced that the flight was cancelled due to inclement weather, and two hundred passengers were stranded just like that.
 
 The air began to buzz with upset travelers, some bursting into tears, others angry at the lack of information. After an hour of waiting, the airport employees finally queued us up to book hotel rooms for an overnight stay, as it was quite late. Bewildered and numb, we were escorted onto a bus with no information as to where we were going. I joked to my friends that they were taking us somewhere to do away with us so that they would not have to reimburse us. We were worried that we’d be put up in a dingy third-rate motel.
@@ -22,6 +24,10 @@ The next morning, I was pleasantly awakened to a gorgeous view of the Sicilian c
 <i>Nothing to complain about the view</i>
 <br>
 <br>
+
+## A misadventure
+
+
 Breakfast was provided, and the fate of our weekend was finally illuminated by the hotel staff- we were to stay at the hotel for two days, with meals and board provided by the airline. We wanted to go home, but the airline staff refused to provide us with transportation back to the airport where we could take a bus, so we were stranded. 
 
 
@@ -33,6 +39,8 @@ We lounged around until lunch, where we were seated with a Hungarian couple with
 <br>
 We spent the rest of the day at the Turkish baths in the hotel, the stress of our travelling woes melting away.
 At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”.
+
+## A party
 
 After dinner, we ventured out to a nearby bar to seek out post-dinner cocktails. Next to our table was a party of a few foreigners, who brought their own speakers and were having a ball of a time. They approached us and invited us to join in on their dancing, and being the fun-loving group that we are, we more than willingly obliged. After some socializing, we learned that they were all friends from Eastern Europe, who were on a trip to celebrate one of their birthdays - we sang happy birthday in English to him- which they loved, and they taught us how to sing it in their language. They requested many a time that we not post pictures on American social media as it would cause a great deal of trouble for them, which brought an immense amount of insight into to the infringement of personal freedoms in other countries. One of the ladies in particular was very fond of us, and kept on calling us her "little American girls", inviting us to her home if we were ever in town.
 
