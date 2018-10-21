@@ -2,7 +2,7 @@
 layout: post
 title: "The Grand Budapest Misadventure"
 date: 2018-10-21
-excerpt: "TL;DR A flight cancellation, a misadventure, and a party"
+excerpt: "TL;DR A cancelled flight, a misadventure, and a party"
 tags: [travel, italy, study abroad]
 comments: true
 ---
