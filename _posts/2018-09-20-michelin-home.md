@@ -2,7 +2,7 @@
 layout: post
 title: "How I found home in a Michelin starred restaurant"
 date: 2018-09-20
-excerpt: "TLDR; I had THE Rattatouille moment"
+excerpt: "TL;DR I had THE Rattatouille moment"
 tags: [travel, experience, food]
 comments: true
 ---
