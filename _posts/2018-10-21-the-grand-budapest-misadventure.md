@@ -31,7 +31,7 @@ We lounged around until lunch, where we were seated with a Hungarian couple with
 
 
 We spent the rest of the day at the Turkish baths in the hotel, the stress of our travelling woes melting away.
-At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”, 
+At dinner we taught Mike all about the games that we played like “What are the Odds”, “Nose Goes” and “Paranoia”.
 
 After dinner, we ventured out to a nearby bar to seek out post-dinner cocktails. Next to our table was a party of a few foreigners, who brought their own speakers and were having a ball of a time. They approached us and invited us to join in on their dancing, and being the fun-loving group that we are, we more than willingly obliged. After some socializing, we learned that they were all friends from Eastern Europe, who were on a trip to celebrate one of their birthdays - we sang happy birthday in English to him- which they loved, and they taught us how to sing it in their language. They requested many a time that we not post pictures on American social media as it would cause a great deal of trouble for them, which brought an immense amount of insight into to the infringement of personal freedoms in other countries. One of the ladies in particular was very fond of us, and kept on calling us her "little American girls", inviting us to her home if we were ever in town.
 
