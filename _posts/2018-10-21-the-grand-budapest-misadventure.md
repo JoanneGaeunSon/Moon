@@ -49,7 +49,7 @@ Overall, it was a lovely evening filled with laughter and much cultural exchange
 The next day, we did some sight-seeing, soaking in the beauty of the coast, formed by volcanic activity of the nearby Mt. Etna. It was a nice ending to our adventure. 
 
 <img src="/assets/img/Misadventure/group.JPG">
-<i>Adventuring with an Aussie</i>
+<i>Adventuring around town</i>
 <br>
 
 
